@@ -1,6 +1,6 @@
 ![Header](github-header-image.png)
 
-A passionate Fullstack Developer based in Indonesia 🇮🇩, with a strong background in web and mobile development. Skilled in JavaScript, React, Node.js, and PHP with a passion for building intuitive and scalable digital experiences.
+A passionate Fullstack Developer based in Indonesia 🇮🇩, with a strong background in web development. Skilled in JavaScript, React, Node.js, and PHP with a passion for building intuitive and scalable digital experiences.
 
 ---
 
